@@ -1,5 +1,3 @@
-# ReadingResponse
-
 Let the machine analysis and predict the trend
 regression question basicly is the curve filting problem in nature
 
